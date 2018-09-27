@@ -6,13 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository":{
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/Mgmez/For_pro.git"
   },
   "author": "miguelon",
   "license": "MIT",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "eslint": "^5.6.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.14.0",
